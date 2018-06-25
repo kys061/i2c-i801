@@ -1,0 +1,1 @@
+cmd_/home/saisei/dev/ubuntu1404-k3.13.0/modify/i2c-i801.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-24-generic/scripts/module-common.lds --build-id  -o /home/saisei/dev/ubuntu1404-k3.13.0/modify/i2c-i801.ko /home/saisei/dev/ubuntu1404-k3.13.0/modify/i2c-i801.o /home/saisei/dev/ubuntu1404-k3.13.0/modify/i2c-i801.mod.o
